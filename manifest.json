@@ -1,6 +1,6 @@
 {
   "name": "Lab8_Starter",
-  "short_name": "Lavin",
+  "short_name": "Lavin's Lab 8 for CSE 110",
   "description": "A recipe viewer that works offline as well",
   "start_url": "./index.html",
   "display": "standalone",
@@ -8,22 +8,22 @@
   "theme_color": "#f57c00",
   "icons": [
     {
-      "src": "./assets/images/icons/icon_192x192.png",
+      "src": "./assets/images/icons/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./assets/images/icons/icon_256x256.png",
+      "src": "./assets/images/icons/icon-256x256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "./assets/images/icons/icon_384x384.png",
+      "src": "./assets/images/icons/icon-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     }, 
     {
-      "src": "./assets/images/icons/icon_512x512.png",
+      "src": "./assets/images/icons/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
