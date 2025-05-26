@@ -23,9 +23,9 @@ self.addEventListener('install', function (event) {
       return cache.addAll([
         './',
         './index.html',
-        './scripts/main.js',
-        './scripts/RecipeCard.js',
-        './styles/main.css',
+        './assets/scripts/main.js',
+        './assets/scripts/RecipeCard.js',
+        './assets/styles/main.css',
         './assets/images/icons/icon-192x192.png',
         './assets/images/icons/icon-256x256.png',
         './assets/images/icons/icon-384x384.png',
