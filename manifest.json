@@ -1,6 +1,6 @@
 {
   "name": "Lab8_Starter",
-  "short_name": "Lab 8",
+  "short_name": "Lavin",
   "description": "A recipe viewer that works offline as well",
   "start_url": "./index.html",
   "display": "standalone",
